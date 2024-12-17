@@ -168,9 +168,6 @@ The .NET is a Framework, which is a collection of classes of reusable libraries 
  4. **.NET Standard** **will replace Portable Class Libraries (PCLs)** as the
     tooling story for building multi-platform .NET libraries.
 
-<div class="text-center">
-<img src="https://i.stack.imgur.com/tE1ny.png" class="img-fluid" style="max-width: 500px;"/>
-</div>
 
 **Source:** _stackoverflow.com_
 
