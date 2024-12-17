@@ -1,4 +1,4 @@
-# 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED) To Land Your Next Six-Figure Job Offer from [FullStack.Cafe](https://www.fullstack.cafe)
+# Crack Full-Stack Interviews: 3877 Coding & System Design Challenges [FullStack.Cafe](https://www.fullstack.cafe)
 
 [FullStack.Cafe](https://www.fullstack.cafe) is a biggest hand-picked collection of top technical interview questions for junior and experienced full-stack and web developers with more that 3877 tech interview questions and answers. Prepare for your next tech interview and land 6-figure job offer in no time.
 
@@ -15135,5 +15135,4 @@ Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 #### Q91: Given the code defined above, can you identify two problems? ⭐⭐⭐
 Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-#### Q92: What are stateless components? ⭐⭐⭐
-Read answer on 👉 
+
