@@ -10720,6 +10720,14 @@ Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 #### Q105: Given an integer, determine if it is a power of 2. If so, return that number, else return -1? ⭐⭐⭐⭐
 Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
+
+
+
+
+
+#### Q106: Describe the JS module design pattern ⭐⭐⭐⭐
+Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
+
 #### Q107: How would you add your own method to the Array object so the following code would work? ⭐⭐⭐⭐
 Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
