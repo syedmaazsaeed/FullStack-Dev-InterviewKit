@@ -10717,7 +10717,7 @@ Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 #### Q104: When would you use the "bind" function? ⭐⭐⭐⭐
 Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
-#### Q105: Given an integer, determine if it is a power of 2. If so, return that number, else return -1 ⭐⭐⭐⭐
+#### Q105: Given an integer, determine if it is a power of 2. If so, return that number, else return -1? ⭐⭐⭐⭐
 Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 
 #### Q106: Describe the JS module design pattern ⭐⭐⭐⭐
