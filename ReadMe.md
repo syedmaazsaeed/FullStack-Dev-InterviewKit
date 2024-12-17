@@ -12,9 +12,6 @@
 
 ---
 
-<!-- 🔴👨‍💻[FullStack.Café + BLKFRD 50% OFF DEAL] - Kill Your Tech & Coding Interview 🪓. 3877 Full-Stack, Coding and System Design Interview Questions (ANSWERED and SOLVED). Get 50% OFF for LIFETIME Access Now only this BLKFRD. Use BLKFRD promo and Get Your Next Six-Figure Job Offer 💰💰💰 or use that link: 
-[>> Get 50% OFF for LIFETIME Now!](https://www.fullstack.cafe/?promocode=BLKFRD&utm_source=github&utm_medium=fsiq) -->
-
 <p align="center">
   <a href="https://www.fullstack.cafe/?promocode=KILLITNOW&utm_source=github&utm_medium=fsiq">
   <img src="https://user-images.githubusercontent.com/13550565/96958623-a1acc500-1530-11eb-92b7-6f1508e630d9.png">
