@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<!--<p align="center">
-  <a href="https://www.fullstack.cafe/?promocode=GITHUB">
-  <img src="https://user-images.githubusercontent.com/13550565/76865667-04a0f400-689e-11ea-8500-1bd60f5014ce.png">
-  </a>
-</p>-->
 
 ## <a name='toc'>Table of Contents</a>
  * [.NET Core](#.NETCore)
@@ -117,17 +112,17 @@ string greet = String.Format("Hello {0}!", place);
 
 #### Q2: What is .NET Standard? ⭐
 **Answer:**
-The **.NET Standard** is a formal specification of .NET APIs that are intended to be available on all .NET implementations.
+The **.NET Standard** is a formal specification of .NET APIs intended to be available on all .NET implementations.
 
 **Source:** _docs.microsoft.com_
 
 #### Q3: What is .NET Core? ⭐
 **Answer:**
-The .NET Core platform is a new .NET stack that is optimized for open source development and agile delivery on NuGet. 
+The .NET Core platform is a new .NET stack optimized for open-source development and agile delivery on NuGet. 
 
-.NET Core has two major components. It includes a small runtime that is built from the same codebase as the .NET Framework CLR. The .NET Core runtime includes the same GC and JIT (RyuJIT), but doesn’t include features like Application Domains or Code Access Security. The runtime is delivered via NuGet, as part of the ASP.NET Core package.
+.NET Core has two major components. It includes a small runtime built from the same codebase as the .NET Framework CLR. The .NET Core runtime includes the same GC and JIT (RyuJIT) but doesn’t include features like Application Domains or Code Access Security. The runtime is delivered via NuGet, as part of the ASP.NET Core package.
 
-.NET Core also includes the base class libraries. These libraries are largely the same code as the .NET Framework class libraries, but have been factored (removal of dependencies) to enable to ship a smaller set of libraries. These libraries are shipped as `System.*` NuGet packages on NuGet.org.
+.NET Core also includes the base class libraries. These libraries are largely the same code as the .NET Framework class libraries but have been factored (removal of dependencies) to enable to ship of a smaller set of libraries. These libraries are shipped as `System.*` NuGet packages on NuGet.org.
 
 **Source:** _stackoverflow.com_
 
